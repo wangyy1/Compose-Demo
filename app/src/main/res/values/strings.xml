@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compose-Demo</string>
+    <string name="hello_world">Hello World</string>
+
+    <string name="dog_content_description">金毛在树叶里</string>
+
+</resources>
