@@ -4,4 +4,7 @@
 
     <string name="dog_content_description">金毛在树叶里</string>
 
+    <string name="profile">Profile</string>
+    <string name="friends_list">FriendsList</string>
+
 </resources>
